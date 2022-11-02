@@ -1,0 +1,15 @@
+{
+    "name":"Ankara University TurnLab PDF Viewer",
+    "version":"1.0",
+    "manifest_version":2,
+    "background":{
+        "scripts": ["./calistir.js"]
+    },
+    "browser_action":{
+        "default_popup":"asd.html"
+    },
+    "permissions":[
+        "tabs",
+        "https://eu.bbcollab.com/"
+    ]
+}
