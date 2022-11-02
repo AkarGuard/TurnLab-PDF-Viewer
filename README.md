@@ -53,7 +53,7 @@ chrome//extensions
 
 ![Screenshots](https://cdn.discordapp.com/attachments/1031646083539021847/1037504207164542976/unknown.png)
 
-
+<video src='https://streamable.com/sw7klo' width=180/>
 
 
 ## Developer
